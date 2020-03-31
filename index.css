@@ -1,0 +1,12 @@
+#header
+{Display:flex;
+justify-content:flex-end;
+}
+#body
+{Display: flex;
+flex-direction: colgroup
+}
+#footer
+{Display:flex;
+flex-direction: row;
+}
